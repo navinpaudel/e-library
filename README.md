@@ -1,4 +1,4 @@
-# 📚 FES Library
+# 📚 Online Library
 
 An online library platform interface featuring curated book highlights, user rating components, and a fully responsive mobile design.
 
